@@ -1,0 +1,6 @@
+Name,Designator,Value,Quantity,
+Resistor,R1,10K,1,
+Resistor,R2,6.8K,1,
+Terminal,"T1,T2",10P,2,https://www.digikey.jp/product-detail/ja/amphenol-anytek/VI1021550000G/609-3944-ND/2261385
+Terminal,T3,4P,1,https://www.digikey.jp/product-detail/ja/phoenix-contact/1729144/277-1249-ND/260617
+Pin socket,"S1,S2",12P,2,https://www.digikey.jp/product-detail/ja/sullins-connector-solutions/PPTC121LFBN-RC/S6100-ND/807231
